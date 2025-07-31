@@ -38,3 +38,5 @@ unzip terraform_${p_version}_linux_amd64.zip && rm -rf terraform_${p_version}_li
 echo "************* END *************"
 
 ls -al
+
+echo "********************************"
